@@ -23,7 +23,7 @@ struct PacketMeta {
 }
 
 // default server is hardcoded in because people are lazy
-const WS_HOST: &'static str = "104.155.180.165:80";
+const WS_HOST: &'static str = "104.155.180.165:6923";
 
 const FAKE_SRC_PORT: u16 = 3333;
 const FAKE_TARGET_IP: &'static str = "172.15.200.200";

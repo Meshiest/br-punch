@@ -9,7 +9,7 @@ use {
 };
 
 // default server is hardcoded in because people are lazy
-const NOTIFY_HOST: &'static str = "104.155.180.165:80";
+const NOTIFY_HOST: &'static str = "104.155.180.165:6923";
 
 fn main() {
     let notify_host = env::args().nth(1).unwrap_or(NOTIFY_HOST.to_string());
