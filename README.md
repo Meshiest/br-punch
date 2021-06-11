@@ -5,7 +5,7 @@ These tools address this issue, though clients and servers need to run a program
 
 **It is recommended to port forward or wait for official nat punch support rather than use this tool.**
 
-Download from the releases tab. It's not a virus, windows just hasn't seen it before.
+[Download from the releases tab](https://github.com/Meshiest/br-punch/releases). It's not a virus, windows just hasn't seen it before.
 
 Running a server requires [winpcap](https://www.winpcap.org/install/default.htm). Client doesn't require anything extra.
 
